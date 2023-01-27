@@ -1,0 +1,5 @@
+*.xml
+*.jar
+*.DS_Store
+# ignore target
+# ignore lib
